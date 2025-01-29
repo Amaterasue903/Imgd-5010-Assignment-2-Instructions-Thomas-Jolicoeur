@@ -7,7 +7,8 @@ My inital design was to have p5js create a simple landscape using circles and sq
 - Second defining the lake/horizon of the image from the sky
 - Third creating the hills themsleves
 - Fourth creating trees and other details such as clouds
-- Fifth if done correctly it should hopefully draw a simple landscape that remains stationary
+- Fifth Shade the land
+- Sixth if done correctly it should hopefully draw a simple landscape that remains stationary
 
 ## p5js Implementation
 
