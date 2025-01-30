@@ -1,7 +1,7 @@
 # Imgd-5010-Assignment-2-Instructions-Thomas-Jolicoeur
 
 ## Initial instructions
-My inital design was to have p5js create a simple landscape using circles and squares and trangles to form the details such as trees lakes and hills
+My inital design was to have p5js create a simple landscape using circles and squares and trangles to form the details such as trees lakes and hills.
 
 - First drawing the background 
 - Second defining the lake/horizon of the image from the sky
